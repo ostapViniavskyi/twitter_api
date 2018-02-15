@@ -44,9 +44,6 @@ def get_friends_list(acct):
         headers = dict(connection.getheaders())
         print('Remaining', headers['x-rate-limit-remaining'], 'request')
 
-    with open('friends.json', 'w', encoding='utf-8') as friends_file:
-        json.dump(friends, friends_file, indent=4)
-
     return friends
 
 

@@ -3,7 +3,7 @@ Nickname: Klitschko
 Location: 
 Description: I am Wladimir Klitschko. Nice to meet you.
 URL: https://t.co/95wlVeMsO5
-Followers number: 429996
+Followers number: 429998
 Friends number: 109
 Account creation date: Sun Jan 11 15:30:50 +0000 2009
 Verified: True
@@ -27,7 +27,7 @@ Nickname: LilJke
 Location: Moscow, Russia
 Description: Professional Dota 2 player currently playing for Na’Vi
 URL: https://t.co/NOEheVFRWg
-Followers number: 81561
+Followers number: 81574
 Friends number: 197
 Account creation date: Thu Oct 02 17:37:54 +0000 2014
 Verified: True
@@ -39,19 +39,19 @@ Nickname: sjrotter
 Location: 
 Description: Entrepreneur, Evangelist, Author, Family Man, & CMO @outsystems.  Fascinated by great marketing, data visualization and building digital brands.
 URL: http://t.co/uod5ZKKl
-Followers number: 18349
+Followers number: 18350
 Friends number: 2174
 Account creation date: Thu Apr 02 15:30:10 +0000 2009
 Verified: False
 Language: en
-Status: What are the key challenges and opportunities that senior leaders in the industry face today? Here is a summary of… https://t.co/utxppyMFrP
+Status: "Now is the time for insurers to have clear leadership, fully grasp the great opportunities that digital, prolific… https://t.co/tPE7Gk8tWN
 ===============================================================================
 Name: Mike
 Nickname: navi_kane
 Location: Ukraine
 Description: Coach Natus Vincere
 URL: None
-Followers number: 932
+Followers number: 935
 Friends number: 119
 Account creation date: Tue Jan 09 05:15:37 +0000 2018
 Verified: False
@@ -77,7 +77,7 @@ Description: #UnleashTheBeast https://t.co/qgChRebwPI https://t.co/ul5xeAYPNW
 https://t.co/8TIgfASmRx
 https://t.co/onacwQzm8B
 URL: None
-Followers number: 3332354
+Followers number: 3332346
 Friends number: 910
 Account creation date: Wed Aug 05 20:51:48 +0000 2009
 Verified: True
@@ -89,7 +89,7 @@ Nickname: TeamLiquid
 Location: 
 Description: https://t.co/Ks7i9Zn8dn              https://t.co/Vfvn6hOzAr              https://t.co/YfI5n83FAz            https://t.co/M3Q1VoZxLG            https://t.co/osjQ4Ow667
 URL: https://t.co/tf324nqd40
-Followers number: 325669
+Followers number: 325680
 Friends number: 114
 Account creation date: Fri Feb 25 02:23:09 +0000 2011
 Verified: True
@@ -103,7 +103,7 @@ Nickname: electronicCSGO
 Location: Kazan
 Description: playing CS:GO for Natus Vincere
 URL: None
-Followers number: 8542
+Followers number: 8543
 Friends number: 42
 Account creation date: Tue Jan 19 12:49:42 +0000 2016
 Verified: False
