@@ -1,0 +1,124 @@
+Name: Klitschko
+Nickname: Klitschko
+Location: 
+Description: I am Wladimir Klitschko. Nice to meet you.
+URL: https://t.co/95wlVeMsO5
+Followers number: 429996
+Friends number: 109
+Account creation date: Sun Jan 11 15:30:50 +0000 2009
+Verified: True
+Language: de
+Status: RT @MathiasUlmann: „Wann immer @Klitschko von seinem Bauchgefühl spricht, erwähnt er im Nachgang noch einen entscheidenden Aspekt: Er verli…
+===============================================================================
+Name: Nikola Popovic
+Nickname: LeBronDoTa
+Location: Kraljevo, Srbija
+Description: Professional dota 2 player for @natusvincere
+URL: https://t.co/idceTd1el6
+Followers number: 4098
+Friends number: 265
+Account creation date: Sun Feb 19 06:04:19 +0000 2012
+Verified: False
+Language: en
+Status: RT @DendiBoss: Просили рассказать про отборочные на ДАК . Вот чуток инфы https://t.co/9pQvQlUdSA
+===============================================================================
+Name: Ilya Ilyuk
+Nickname: LilJke
+Location: Moscow, Russia
+Description: Professional Dota 2 player currently playing for Na’Vi
+URL: https://t.co/NOEheVFRWg
+Followers number: 81561
+Friends number: 197
+Account creation date: Thu Oct 02 17:37:54 +0000 2014
+Verified: True
+Language: en
+Status: RT @DendiBoss: Просили рассказать про отборочные на ДАК . Вот чуток инфы https://t.co/9pQvQlUdSA
+===============================================================================
+Name: Steve Rotter
+Nickname: sjrotter
+Location: 
+Description: Entrepreneur, Evangelist, Author, Family Man, & CMO @outsystems.  Fascinated by great marketing, data visualization and building digital brands.
+URL: http://t.co/uod5ZKKl
+Followers number: 18349
+Friends number: 2174
+Account creation date: Thu Apr 02 15:30:10 +0000 2009
+Verified: False
+Language: en
+Status: What are the key challenges and opportunities that senior leaders in the industry face today? Here is a summary of… https://t.co/utxppyMFrP
+===============================================================================
+Name: Mike
+Nickname: navi_kane
+Location: Ukraine
+Description: Coach Natus Vincere
+URL: None
+Followers number: 932
+Friends number: 119
+Account creation date: Tue Jan 09 05:15:37 +0000 2018
+Verified: False
+Language: en
+Status: Читатели есть - постов нет ))
+===============================================================================
+Name: Monster Gaming
+Nickname: MonsterGaming
+Location: CT Spawn
+Description: Fueling gamers worldwide ⚡️
+URL: https://t.co/9MIjoTgQtD
+Followers number: 281697
+Friends number: 506
+Account creation date: Mon Jul 27 22:10:48 +0000 2009
+Verified: True
+Language: en
+Status: We saw @TeamLiquid CSGO win their first trophy at #CS_Summit while their Dota team took home yet another Starladder… https://t.co/iKJ7OWIw46
+===============================================================================
+Name: Monster Energy
+Nickname: MonsterEnergy
+Location: Worldwide
+Description: #UnleashTheBeast https://t.co/qgChRebwPI https://t.co/ul5xeAYPNW 
+https://t.co/8TIgfASmRx
+https://t.co/onacwQzm8B
+URL: None
+Followers number: 3332354
+Friends number: 910
+Account creation date: Wed Aug 05 20:51:48 +0000 2009
+Verified: True
+Language: en
+Status: RT @MonsterGaming: This #ValentinesDay, we hope you spend time with someone who looks at you the way that @summit1g looks at @GoldGloveTV 😍…
+===============================================================================
+Name: Team Liquid
+Nickname: TeamLiquid
+Location: 
+Description: https://t.co/Ks7i9Zn8dn              https://t.co/Vfvn6hOzAr              https://t.co/YfI5n83FAz            https://t.co/M3Q1VoZxLG            https://t.co/osjQ4Ow667
+URL: https://t.co/tf324nqd40
+Followers number: 325669
+Friends number: 114
+Account creation date: Fri Feb 25 02:23:09 +0000 2011
+Verified: True
+Language: en
+Status: RT @Alienware: #ICYMI Congrats to @TeamLiquid CSGO for their impressive debut and win this past weekend at #cs_summit! 
+
+Checkout the full…
+===============================================================================
+Name: Denis Sharipov
+Nickname: electronicCSGO
+Location: Kazan
+Description: playing CS:GO for Natus Vincere
+URL: None
+Followers number: 8542
+Friends number: 42
+Account creation date: Tue Jan 19 12:49:42 +0000 2016
+Verified: False
+Language: ru
+Status: @Sentito1 Zowie ec2-b
+===============================================================================
+Name: DreamTeam Token
+Nickname: DreamTeam_Token
+Location: 
+Description: DreamTeam - Infrastructure platform and payment gateway for Esports and Gaming.
+URL: https://t.co/05tc0aGzxy
+Followers number: 3335
+Friends number: 6
+Account creation date: Wed Jul 26 20:04:41 +0000 2017
+Verified: False
+Language: ru
+Status: Join DreamTeam at the Money20/20 Asia fair in Singapore on 13–15 March and get a $250 discount on your ticket! Put… https://t.co/QmEXgweZh4
+===============================================================================
