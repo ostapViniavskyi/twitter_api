@@ -1,305 +1,125 @@
-Name: Natus Vincere
-Nickname: natusvincere
-Location: Ukraine
-Description: Official twitter of world's leading esports club Natus Vincere (Na`Vi). Follow us to get the latest information about our teams!
-URL: https://t.co/GFw5Zddo8v
-Followers number: 463363
-Friends number: 232
-Account creation date: Sun Oct 24 15:26:17 +0000 2010
+Name: Ludwig Wåhlberg
+Nickname: zai_2002
+Location: Sweden
+Description: DOTA for @OpTicGaming Social media @zai_2002
+URL: https://t.co/b7ci6XMOr4
+Followers number: 133787
+Friends number: 85
+Account creation date: Mon Feb 17 18:09:31 +0000 2014
 Verified: True
-Language: en
-Status: Visage by @LilJke 😉 Stream is already up! 
-📺 https://t.co/Ze2iYuudY2
-#dota2 https://t.co/yH0UsXiS7p
+Language: sv
+Status: @Blitz_DotA a brighter summer day
 ===============================================================================
-Name: Kai Diekmann
-Nickname: KaiDiekmann
-Location: Berlin
-Description: Ich war @BILD https://t.co/Lywc0bKvdb #StoryMachine
-URL: https://t.co/3eR8O8oXXy
-Followers number: 184366
-Friends number: 839
-Account creation date: Thu Sep 20 01:56:29 +0000 2012
-Verified: True
-Language: de
-Status: Das ist &amp; bleibt der spektakulärste Blick über Berlin! Nice to be back from time to time..... @axelspringer @bild https://t.co/3EHugjFyb4
-===============================================================================
-Name: Michael Kleinemeier
-Nickname: MichaelKleinem
-Location: Walldorf, Baden-Württemberg
-Description: Passionate about ensuring a perfect customer experience. Dedicated to bringing SAP’s innovations to the forefront of business. Opinions are my own.
-URL: None
-Followers number: 2781
-Friends number: 162
-Account creation date: Sun Oct 11 10:21:45 +0000 2015
-Verified: False
-Language: en
-Status: RT @JenniferBMorgan: Proud to be named once again to @FortuneMagazine’s #BestWorkplaces for Diversity. Grateful that our @SAPNorthAmerica w…
-===============================================================================
-Name: AJ Vaynerchuk
-Nickname: ajv
-Location: Larchmont, NY
-Description: Co-founder: @VaynerSports & @VaynerMedia Investor: @Uber, @snapchat, @venmo
-URL: https://t.co/ZBMMlWr2sy
-Followers number: 22366
-Friends number: 2619
-Account creation date: Sat Feb 24 16:27:58 +0000 2007
-Verified: False
-Language: en
-Status: @bigplay_va @vaynersports 👊🏼 appreciate you bro
-===============================================================================
-Name: Web Summit
-Nickname: WebSummit
-Location: Lisbon, Portugal
-Description: We bring people together. Sign up for a 2 for 1 for 2018 - https://t.co/BeXLZS9WHg
-URL: https://t.co/rVvJyc4nZm
-Followers number: 95733
-Friends number: 26712
-Account creation date: Thu Sep 17 11:44:59 +0000 2009
-Verified: True
-Language: en
-Status: #WebSummit 2017 speaker, @destraynor and the @intercom team have put together a #marketing book for #startups 👏
-Che… https://t.co/vqvfvZhcb5
-===============================================================================
-Name: Tatjana Kiel
-Nickname: TatjanaKiel
-Location: Hamburg
-Description: CEO bei Klitschko Ventures GmbH. Expertin für #Change & #Challenge #Management, #Markenstrategie, aktiv @ladiesmentoring und @STARTUPTEENS
-URL: https://t.co/NVzMUgISmp
-Followers number: 2419
-Friends number: 2409
-Account creation date: Wed Sep 01 09:13:03 +0000 2010
-Verified: False
-Language: de
-Status: RT @AHildebrandt70: Es lohnt sich, in diesem Zusammenhang auch #Klitschkos Verstaendnis von #Nachaltigkeit zu reflektieren. Dazu sein Buch…
-===============================================================================
-Name: Paulo Coelho
-Nickname: paulocoelho
-Location: Suisse
-Description: Writer ( https://t.co/d8dQ56k9Oq ) I delete tweets
-URL: https://t.co/d8dQ56k9Oq
-Followers number: 14983683
-Friends number: 282
-Account creation date: Thu Apr 26 07:32:00 +0000 2007
-Verified: True
-Language: pt
-Status: @Capricornio_jpg This is not my account
-===============================================================================
-Name: Laurie Segall
-Nickname: LaurieSegallCNN
-Location: New York, NY
-Description: Investigator of the underworld & weird. Senior tech correspondent @CNN, host of "Mostly Human." Soft spot for underdogs. Tips: Laurie.Segall@turner.com
-URL: https://t.co/xHjAPFm5vl
-Followers number: 26764
-Friends number: 4707
-Account creation date: Wed Dec 24 04:19:31 +0000 2008
-Verified: True
-Language: en
-Status: Instead of doves, there are drones. Have to say, the “shooting star drones” are amazing. #OpeningCeremonies
-===============================================================================
-Name: Sachar Klein
-Nickname: sachark
-Location: Berlin
-Description: Chief Attention Officer bei hypr. Wir kommunizieren u.a. für @Klitschko, Vai, Visual Statements, Foodboom und sisterMAG. Mentor beim @nma_vc und @as_pnp
-URL: https://t.co/64rLIdTOhU
-Followers number: 9838
-Friends number: 150
-Account creation date: Tue Feb 12 10:28:05 +0000 2008
-Verified: True
-Language: de
-Status: @danielrehn Anders. Die Leute bei der Berlinale sind bereit, für Kaffee zu bezahlen.
-===============================================================================
-Name: James Dart
-Nickname: James_Dart
-Location: London, via Kernow
-Description: Editor of @guardian_sport (Digital). Have a YouTube/Vine/gif problem. And a tumblr blog (https://t.co/3rxGWUyvou). IG: james.dart
-URL: https://t.co/k6QwbmnU9y
-Followers number: 19448
-Friends number: 867
-Account creation date: Wed May 26 10:52:59 +0000 2010
-Verified: True
-Language: en
-Status: RT @DTguardian: Gary Cliffe was the first to press charges against Barry Bennell in this case. Gary, a kid at Man City, was abused 100-plus…
-===============================================================================
-Name: Johnathon Banks
-Nickname: Johnathon_Banks
-Location: 
-Description: OFFICIAL Twitter account of Johnathon Banks out of the Detroit famous Kronk Gym
-URL: http://t.co/xUKfbrSxjo
-Followers number: 3801
-Friends number: 1631
-Account creation date: Tue Feb 12 20:24:25 +0000 2013
-Verified: False
-Language: en
-Status: RT @alyciambaum: 🥊 https://t.co/6ihTAWEQvn
-===============================================================================
-Name: Tony Robbins
-Nickname: TonyRobbins
-Location: USA
-Description: #1 NY Times & #1 WSJ: UNSHAKEABLE: Your Financial Freedom Playbook | Order your copy @ https://t.co/Y8oBmqUo8G | 100% of profits donated to @FeedingAmerica
-URL: https://t.co/Qfz45QkzDe
-Followers number: 3155857
-Friends number: 1050
-Account creation date: Sun Nov 09 09:06:32 +0000 2008
-Verified: True
-Language: en
-Status: Happy Valentine's Day everyone and a happy anniversary to my amazing wife Sage - you are the oxygen of my soul. 💘🌹💌… https://t.co/Imhb4cJxHS
-===============================================================================
-Name: Gary Vaynerchuk
-Nickname: garyvee
-Location: NYC
-Description: Family 1st! Entrepreneur 2nd. CEO of @Vaynermedia and @VaynerSports. Investor in Twitter, Snapchat, Uber, Venmo. 5X NYTimes best 📚. Die hard NYJets fan
-URL: https://t.co/I1Xzbq4vX9
-Followers number: 1677577
-Friends number: 10132
-Account creation date: Fri May 04 15:32:48 +0000 2007
-Verified: True
-Language: en
-Status: Be kind
-===============================================================================
-Name: Cecilia Brækhus
-Nickname: 1LadyCecilia
-Location: Berlin, Tyskland
-Description: I am The First Lady Cecilia Brækhus. World Champion - WBA, WBC, WBO, IBF, IBO. post@firstladypromotion.no
-Instagram: @ceciliabraekhus
-URL: https://t.co/ZsaqPexgjq
-Followers number: 14478
-Friends number: 318
-Account creation date: Fri Oct 05 16:18:51 +0000 2012
-Verified: False
-Language: no
-Status: https://t.co/7eQ78S0aiH
-===============================================================================
-Name: Harvard Biz Review
-Nickname: HarvardBiz
-Location: Boston, MA
-Description: The leading destination for smart management thinking. Click here to subscribe: https://t.co/krqDQl2ORH
-URL: http://t.co/FXkjfGSn3I
-Followers number: 5329866
-Friends number: 197
-Account creation date: Fri May 16 15:50:47 +0000 2008
-Verified: True
-Language: en
-Status: Big Companies Are Embracing Analytics, But Most Still Don’t Have a Data-Driven Culture https://t.co/oWEdAsKP3n
-===============================================================================
-Name: Новое Время
-Nickname: tweetsNV
-Location: Украина
-Description: Украинский общественно-политический еженедельник и новостной информационно-аналитический сайт Новое Время
-URL: http://t.co/vi2lQkQO7b
-Followers number: 48972
-Friends number: 557
-Account creation date: Fri May 23 06:50:48 +0000 2014
+Name: Gleb Lipatnikov
+Nickname: Funn1kDota
+Location: Kharkiv
+Description: I like dota2
+URL: https://t.co/SzhBEL2jsC
+Followers number: 118770
+Friends number: 123
+Account creation date: Sat Jan 15 18:20:06 +0000 2011
 Verified: False
 Language: ru
-Status: Суд отпустил #Труханов на поруки
- https://t.co/z1CPSXlokL
+Status: https://t.co/05mMZEdWR9 
+
+~_~
 ===============================================================================
-Name: TED Talks
-Nickname: TEDTalks
-Location: New York, NY
-Description: Official tweets by https://t.co/XyGsGk67aO. Ideas worth spreading.
-URL: http://t.co/7qVI5vqFrr
-Followers number: 10965460
-Friends number: 549
-Account creation date: Sat Jul 19 13:22:50 +0000 2008
-Verified: True
+Name: Aliwi Omar
+Nickname: w33haa
+Location: Bucharest
+Description: Dota 2 is my game
+URL: https://t.co/4v4KDj7yVR
+Followers number: 97343
+Friends number: 234
+Account creation date: Sun Jun 22 13:42:51 +0000 2014
+Verified: False
 Language: en
-Status: Learn how to praise the ones you love without comparing them to other people: https://t.co/vOv4Nal4wF
+Status: Will be standing in for @paiNGamingBR once again at the Bucharest Major, first time i will be playing in my hometow… https://t.co/dOFlW0iKiR
 ===============================================================================
-Name: SiS
-Nickname: sis
+Name: KuroKy
+Nickname: LiquidKuroKy
 Location: 
-Description: #SiSMexico2018 - 21 y 22 de marzo, Ciudad de México -- Connecting the sport innovation world!  https://t.co/EwsHlZ6o7h
-URL: https://t.co/PzC7I4SW7r
-Followers number: 23592
-Friends number: 16169
-Account creation date: Fri Mar 07 20:37:12 +0000 2014
-Verified: True
-Language: es
-Status: The Next ESPN? Tom Brady And Michael Strahan Starting A Sports Media Platform https://t.co/FmHFmjaznS vía… https://t.co/9DkjWYdW6r
-===============================================================================
-Name: Bernd Leukert
-Nickname: LeukertB
-Location: Germany
-Description: Member of the Executive Board at SAP for Products & Innovation. Views are my own.
-URL: https://t.co/PKOK3TZeYS
-Followers number: 12658
-Friends number: 293
-Account creation date: Wed Feb 29 14:57:23 +0000 2012
-Verified: True
-Language: en
-Status: 6 Ways To Make #SmartCities Future-Proof #CyberSecurity Cities via @forbes https://t.co/133gmbDNbC
-===============================================================================
-Name: Bill McDermott
-Nickname: BillRMcDermott
-Location: 
-Description: Owned a deli as a kid, got my big break @Xerox, innovating @SAP. Relentless optimist. Devoted to family, friends and a better world. #winnersdream @winnersdream
-URL: http://t.co/QIhXmcq8ti
-Followers number: 38040
-Friends number: 246
-Account creation date: Mon Aug 26 21:43:34 +0000 2013
-Verified: True
-Language: en
-Status: RT @EPhilippePM: Au sommet #ChooseFrance🇫🇷 autour d’@EmmanuelMacron, @SAP annonçait 2 milliards d’euros d’investissements sur 5 ans en Fran…
-===============================================================================
-Name: Rolf Schumann
-Nickname: rolfschumann
-Location: Walldorf
-Description: Global GM for platform @SAP with passion for innovation, data revolution, new biz models, electric mobility & everything which is somehow connected
-URL: https://t.co/tb6n9LX0S9
-Followers number: 1313
+Description: Dota 2
+URL: https://t.co/PVilYYQyy0
+Followers number: 205224
 Friends number: 99
-Account creation date: Sun Mar 18 13:39:27 +0000 2012
-Verified: False
+Account creation date: Thu Nov 15 13:48:20 +0000 2012
+Verified: True
 Language: de
-Status: There is nothing more exciting than seeing great customers to succeed and making their dreams come true. Congratula… https://t.co/ezkMvo1smw
+Status: SL champions! See you in Katowice!
 ===============================================================================
-Name: SAPPHIRE NOW
-Nickname: SAPPHIRENOW
-Location: Orlando, Florida
-Description: Live news and updates plus on-demand replays from the world’s premier business technology event, #SAPPHIRENOW.
-URL: http://t.co/eIGnHdQh4l
-Followers number: 31969
-Friends number: 1344
-Account creation date: Thu Jan 07 06:59:42 +0000 2010
-Verified: False
-Language: en
-Status: Love technology? So do we! Join us, June 5-7: https://t.co/Ug46AbR59b #SAPPHIRENOW https://t.co/MVU2M6PnT0
-===============================================================================
-Name: Usyk Aleksandr
-Nickname: AleksandrUsyk
-Location: 
-Description: 
-URL: None
-Followers number: 1584
-Friends number: 42
-Account creation date: Mon Mar 06 04:09:53 +0000 2017
-Verified: False
-Language: ru
-Status: https://t.co/pK4WJeTuMa
-===============================================================================
-Name: Alexey Navalny
-Nickname: navalny
-Location: Moscow
-Description: Основатель Фонда борьбы с коррупцией, председатель Партии Прогресса.
-URL: http://t.co/vUATkvwKPm
-Followers number: 2181682
-Friends number: 1039
-Account creation date: Wed Oct 14 07:12:44 +0000 2009
+Name: Roman Lepokhin
+Nickname: Casperenush
+Location: Ukraine
+Description: dude with a mouth and a microphone
+URL: https://t.co/bwdrxKA3vM
+Followers number: 121468
+Friends number: 380
+Account creation date: Sat Feb 12 20:18:34 +0000 2011
 Verified: True
 Language: ru
-Status: RT @StalinGulag: Пишут, что роскомнадзор начал блокировать сайт Навального. В стране цензуры нет, просто паскудные хуилы решают за тебя, чт…
+Status: @Renisux я о том же и подумал
 ===============================================================================
-Name: Elon Musk
-Nickname: elonmusk
-Location: 
-Description: 
-URL: None
-Followers number: 19547735
-Friends number: 47
-Account creation date: Tue Jun 02 20:12:29 +0000 2009
+Name: Olexandr dashkevych
+Nickname: JustXBOCT
+Location: Kiev, Ukraine
+Description: ex Dota2 pro player, TI winner, now coach of Na`Vi.Dota2 squad
+business email justxboctt@gmail.com https://t.co/hDhsd4htaN
+URL: https://t.co/nm2NSwQBEd
+Followers number: 255069
+Friends number: 336
+Account creation date: Sat Jan 07 13:54:48 +0000 2012
+Verified: True
+Language: ru
+Status: @RuhubSmile @LMBT_CSGO @guardiancsgo Много шуточек хочется сказать, но я промолчу!!!!
+===============================================================================
+Name: Vitalii Volochai
+Nickname: v1lat
+Location: Kyiv, Ukraine
+Description: Ukrainian esport caster, casting all top-DOTA2 tournaments! Ruhub co-founder. Huge Sports fan, so expect a lot of sports-tweets
+URL: https://t.co/WfCkbHGJOt
+Followers number: 216155
+Friends number: 750
+Account creation date: Tue Mar 24 21:46:50 +0000 2009
+Verified: False
+Language: en
+Status: @AndrewNsk94 толсто!
+===============================================================================
+Name: GitHub
+Nickname: github
+Location: San Francisco, CA
+Description: How people build software. 
+
+Need help? Send us a message at https://t.co/YU5nzbpDIg for support.
+URL: https://t.co/FoKGHcCyJJ
+Followers number: 1712015
+Friends number: 282
+Account creation date: Mon Feb 11 04:41:50 +0000 2008
 Verified: True
 Language: en
-Status: @doug_ellison @dsfpspacefl1ght Found the source of the problem. The NASA database has the Falcon Block 1 performanc… https://t.co/ksGp65AE8P
+Status: RT @mdo: Over a year and half later, here's that blog post on how we shipped system fonts to https://t.co/eRIXyoa8Qa. Better late (and stil…
+===============================================================================
+Name: Darth Vader
+Nickname: Resolut1on_
+Location: 
+Description: Player for @OGdota2 https://t.co/YpfjJnrIJr
+URL: None
+Followers number: 109115
+Friends number: 192
+Account creation date: Tue Nov 12 21:01:08 +0000 2013
+Verified: True
+Language: ru
+Status: Game 3 on new patch hype
+===============================================================================
+Name: Ilya Ilyuk
+Nickname: LilJke
+Location: Moscow, Russia
+Description: Professional Dota 2 player currently playing for Na’Vi
+URL: https://t.co/NOEheVFRWg
+Followers number: 81356
+Friends number: 197
+Account creation date: Thu Oct 02 17:37:54 +0000 2014
+Verified: True
+Language: en
+Status: RT @DendiBoss: Просили рассказать про отборочные на ДАК . Вот чуток инфы https://t.co/9pQvQlUdSA
 ===============================================================================
