@@ -30,13 +30,8 @@ def get_friends_list(acct):
         try:
             connection = urllib.request.urlopen(url, context=ctx)
         except urllib.error.HTTPError as message:
-            if str(message) == 'HTTP Error 401: Authorization Required':
-                print('Can\'t find the user! Check if name is correct' +
-                      'or try again later')
-                exit()
-            else:
-                print('Request limit reached!')
-                break
+            print('Request limit reached or user not found')
+            exit()
         data = connection.read().decode()
         js = json.loads(data)
         friends.extend(js['users'])
@@ -57,7 +52,9 @@ def get_info_from_json(friends):
 
     while True:
         try:
-            name = input('Friend name: ')
+            name = input('Friend name(enter to exit): ')
+            if not name:
+                exit()
             iterator = iter(friends)
             i = 0
             while True:
