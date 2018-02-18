@@ -47,48 +47,51 @@ def get_friends_list(acct):
     return friends
 
 
-def get_info_from_json(friends, fr_number, out_type='file'):
+def get_info_from_json(friends):
     """
     (list, int, str) -> None
     Writes to file or in the console(depending on the out_type parameter)
     information about first fr_number friends from friends list
     """
-    if out_type not in {'file', 'console'}:
-        out_type = 'file'
-    info = ''
-    for i in range(fr_number):
-        friend = friends[i]
-        info += (f"Name: {friend['name']}\n" +
-                 f"Nickname: {friend['screen_name']}\n" +
-                 f"Location: {friend['location']}\n" +
-                 f"Description: {friend['description']}\n" +
-                 f"URL: {friend['url']}\n" +
-                 f"Followers number: {friend['followers_count']}\n" +
-                 f"Friends number: {friend['friends_count']}\n" +
-                 f"Account creation date: {friend['created_at']}\n" +
-                 f"Verified: {friend['verified']}\n" +
-                 f"Language: {friend['lang']}\n" +
-                 f"Status: {friend['status']['text'].strip()}\n" +
-                 '=' * 79 + '\n')
-    if out_type == 'file':
-        with open('friends.txt', 'w', encoding='utf-8') as writefile:
-            writefile.write(info)
-    elif out_type == 'console':
-        print(info)
+    print('Friends: ' + '  |  '.join([fr['screen_name'] for fr in friends]))
+
+    while True:
+        try:
+            name = input('Friend name: ')
+            iterator = iter(friends)
+            i = 0
+            while True:
+                fr = next(iterator)
+                i += 1
+                if fr['screen_name'] == name:
+                    break
+            break
+        except StopIteration:
+            print('wrong friend name')
+            continue
+    print(f'Getting info from {friends[i - 1]["screen_name"]}')
+    next_dct = friends[i - 1]
+    while True:
+        if type(next_dct) != dict:
+            print(next_dct)
+            break
+        field = input('Choose field to output: ' +
+                      '  |  '.join(next_dct.keys()) + '\n'+
+                      '(press Enter to stop!)' + '\n')
+        if not field:
+            break
+        while True:
+            try:
+                next_dct = next_dct[field]
+                break
+            except KeyError:
+                print('wrong key')
+                continue
 
 
 if __name__ == '__main__':
     acct_name = input('Account name: ')
     friends = get_friends_list(acct_name)
     print(f'{len(friends)} friends were found')
-    while True:
-        try:
-            fr_number = int(input(
-                'How many should be displayed?\nFriends number: '))
-            output_type = input('Output type(file\console):')
-            get_info_from_json(friends, min(fr_number, len(friends)))
-            break
-        except ValueError as err_msg:
-            print(err_msg)
-            continue
+    get_info_from_json(friends)
 
